@@ -1,3 +1,3 @@
 # hello-world
 
-Hello! My name is Amanda Aisyah!
+Hello! I'm alien which want to eat earth! MWAHAHAHAHA... >~<!!!
