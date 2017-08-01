@@ -1,3 +1,3 @@
 # hello-world
 
-Hello! I'm alien which want to eat earth! MWAHAHAHAHA... >~<!!!
+Hello! I'm alien which want to eat earth! MWAHAHAHAHA... >:D!!!
