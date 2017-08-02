@@ -4,3 +4,4 @@ This file contains alien power documentation:
 - big head
 - big eater
 - nasty
+- big eyes
