@@ -5,3 +5,4 @@ This file contains alien power documentation:
 - big eater
 - nasty
 - big eyes
+- drone brain
