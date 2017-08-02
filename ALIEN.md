@@ -3,3 +3,4 @@ This file contains alien power documentation:
 - cheeky
 - big head
 - big eater
+- nasty
